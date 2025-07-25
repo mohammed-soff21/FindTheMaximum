@@ -31,7 +31,7 @@ Enter the first number:
 > 20
 Enter the second number:
 > 10
-Enter the second number:
+Enter the third number:
 > 5
 The maximum number is: 20
 ```
