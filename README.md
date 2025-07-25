@@ -11,31 +11,34 @@ This project is designed as a basic introduction to input/output operations as w
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mohammed-soff21/SumTwoNumbers.git
+   git clone https://github.com/mohammed-soff21/FindTheMaximum.git
 2. Open the solution:
    - Launch Visual Studio
-   - Open the SumTwoNumbers.sln file
+   - Open the FindTheMaximum.sln file
 3. Run the Project
    - Press Ctrl + F5 or click Start Without Debugging
 
 ## Features
-- Accepts two integer inputs from the user
-- Calculates and prints the sum
+- Accepts three integer inputs from the user
+- Calculates the largest number between them
+- Using logical AND operation
 - Code is divided into reusable methods for better readability and structure
 - Written in clean and modern C# syntax
 
 ## Example
 ```text
 Enter the first number:
+> 20
+Enter the second number:
 > 10
 Enter the second number:
-> 25
-The sum is: 35
+> 5
+The maximum number is: 20
 ```
 ## Project Structure
 ```text
-SumTwoNumbers/
-├── SumTwoNumbers.csproj     # Project configuration file
+FindTheMaximum/
+├── FindTheMaximum.csproj     # Project configuration file
 ├── Program.cs               # Main entry point with logic
 ├── obj/                     # Build temporary files (auto-generated)
 ├── bin/                     # Compiled binaries (auto-generated)
