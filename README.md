@@ -21,7 +21,7 @@ This project is designed as a basic introduction to input/output operations as w
 ## Features
 - Accepts three integer inputs from the user
 - Calculates the largest number between them
-- Using logical AND operation
+- Using logical AND operator
 - Code is divided into reusable methods for better readability and structure
 - Written in clean and modern C# syntax
 
